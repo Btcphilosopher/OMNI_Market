@@ -1,0 +1,6 @@
+{
+  "name": "OmniMarket OS",
+  "description": "A next-generation American retail operating system for everyday shopping at national scale, blending high-efficiency logistics, smart recommendations, smart subscriptions, and real-time tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
